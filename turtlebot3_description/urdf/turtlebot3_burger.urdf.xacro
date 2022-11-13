@@ -161,8 +161,8 @@
                izz="0.001" />
     </inertial>
   </link>
-  
-    <!-- Camera -->
+
+  <!-- Camera -->
   <link name="camera_link">
         <visual>
             <geometry>
@@ -257,5 +257,3 @@
 
 </robot>
 
-
-</robot>
